@@ -2,6 +2,12 @@
 A library designed to help you create an OnBoarding/Intro UI in your android app with ease.
 
 ## Demo
+Click below to watch a quick demo.
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WoSrZmuwvlw
+" target="_blank"><img src="http://img.youtube.com/vi/WoSrZmuwvlw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="512" height="360" border="10" /></a>
+
 Try out the app here: 
 
  [DroidOnBoarder APK](https://github.com/ImperiusRex/DroidOnBoarder/blob/master/app/DroidOnBoarder_1.0.0.apk)
