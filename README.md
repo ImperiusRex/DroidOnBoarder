@@ -18,7 +18,7 @@ Try out the app here:
 ![ScreenShot](https://raw.github.com/ImperiusRex/DroidOnBoarder/master/screenshots/sample3.png)
 
 
-##Target Platforms
+## Target Platforms
 Android API level 9 or later.
 
 
